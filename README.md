@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @du-cassoulet
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on my projects (wired)
+- 📫 How to reach me : idk
