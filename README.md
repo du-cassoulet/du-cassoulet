@@ -7,6 +7,8 @@
 ---
 
 - 🧑‍🎓 I am currently a **student**.
+- 🧠 Learning **LLMs**...
+- ❓ You can ask me about **Web development**.
 
 ---
 
