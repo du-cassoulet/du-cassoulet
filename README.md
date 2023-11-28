@@ -5,7 +5,7 @@
 🧠 I am always trying my best to make things looks easier and find solutions to every possible problems. Making an easily understandable program that will help newer generations to become even better than i will ever be.
 
 [![Du Cassoulet Profile](https://img.shields.io/github/followers/du-cassoulet?label=follow&style=social)](https://github.com/du-cassoulet)
-[![Linkedin: Gaston Chenet](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-chenet-232480293/)](https://www.linkedin.com/in/gaston-chenet-232480293/)
+[![Linkedin: Gaston Chenet](https://img.shields.io/badge/-GastonChenet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-chenet-232480293/)](https://www.linkedin.com/in/gaston-chenet-232480293/)
 
 ---
 
