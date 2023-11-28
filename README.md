@@ -4,6 +4,8 @@
 
 🧠 I am always trying my best to make things looks easier and find solutions to every possible problems. Making an easily understandable program that will help newer generations to become even better than i will ever be.
 
+[![Du Cassoulet Profile](https://img.shields.io/github/followers/du-cassoulet?label=follow&style=social)](https://github.com/du-cassoulet)
+
 ---
 
 - 🧑‍🎓 I am currently a **student**.
